@@ -1,0 +1,11 @@
+certifi
+chardet
+idna
+numpy
+pandas
+plotly
+requests
+ta-lib
+tornado
+urllib3
+yfinance
